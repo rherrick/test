@@ -6,6 +6,12 @@ Oh my, that sounds so serious.
 
 And now more.
 
+| Setting  | Value                              |
+| -------- | ---------------------------------- |
+| URL      | jdbc:postgresql://localhost/pharos |
+| Username | pharos                             |
+| Password | pharos                             |
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Volutpat maecenas volutpat blandit aliquam etiam erat. Curabitur vitae nunc sed velit dignissim sodales ut eu. Pellentesque adipiscing commodo elit at. Ultricies lacus sed turpis tincidunt id aliquet. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Purus non enim praesent elementum facilisis leo vel fringilla est. Ut faucibus pulvinar elementum integer enim. In tellus integer feugiat scelerisque varius morbi enim nunc. Semper risus in hendrerit gravida rutrum quisque non tellus orci. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Lacinia quis vel eros donec ac odio. Maecenas accumsan lacus vel facilisis volutpat est velit egestas. Lectus mauris ultrices eros in cursus turpis massa. Tortor dignissim convallis aenean et tortor at risus viverra. Egestas sed sed risus pretium quam. Convallis a cras semper auctor neque vitae tempus.
 
 Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Blandit cursus risus at ultrices mi tempus imperdiet. Cum sociis natoque penatibus et. Urna duis convallis convallis tellus id interdum velit laoreet. Tristique et egestas quis ipsum. Eu turpis egestas pretium aenean pharetra magna. Posuere ac ut consequat semper viverra nam libero justo. Lectus nulla at volutpat diam ut venenatis tellus. Pulvinar pellentesque habitant morbi tristique. Sed vulputate mi sit amet. Nunc consequat interdum varius sit amet mattis. Dui ut ornare lectus sit amet. Eu sem integer vitae justo eget magna fermentum. Morbi non arcu risus quis varius quam quisque id. Risus quis varius quam quisque id diam. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis. Rhoncus aenean vel elit scelerisque. Netus et malesuada fames ac turpis egestas maecenas pharetra. Mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Tellus at urna condimentum mattis pellentesque id nibh tortor.
